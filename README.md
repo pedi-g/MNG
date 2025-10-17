@@ -1,5 +1,5 @@
 # functional-diversity
-The R scripts used for data analysis and vidualization of a paper about functional diversity of mangrove benthic fauna.
+The R scripts used for data analysis and vidualization of the paper "Gharamani, P., Hajializadeh, P., Maghsoodi, P., Azizi, S., Ghodrati Shojaei, M., Naderloo, R. (2025). Macrobenthos of Natural vs. Planted Mangroves: Species Compositions and Functional Perspective. Marine Environmental Research. https://doi.org/10.1016/j.marenvres.2025.107525 . It is on functional diversity of mangrove benthic fauna.
 
 The included scripted are:
 
